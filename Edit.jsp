@@ -27,7 +27,7 @@
     <div class="w3-right w3-hide-small">
       <a href="delete.jsp" class="w3-bar-item w3-button">DELETE</a>
       <a href="add.html" class="w3-bar-item w3-button">ADD</a>
-        <input type="submit" value="LOGOUT">
+        <input type="submit" value="out">
     </div>
   </div>
 </form>
